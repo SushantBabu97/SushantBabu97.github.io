@@ -18,13 +18,28 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
-## Features
+## Projects
 
-Here are certain features of this site.
+I have build many industrial projects. Some ineresting  projects are:-
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
+- <b><i> Hamro Patro Remit: Cross-border Payment System, </b></i> <br/>
+Contributed to the development of a remittance platform and its ecosystem for users in the USA,
+Australia, and Japan. Integrated pay-in and pay-out partners for payment operators, wallet support.
+Used Java, Micronaut, gRPC, PostgreSQL, Redis and worked on Hexagonal Architecture.
+ 
+- <b><i> Analytics: User Event & KPI Traking, Analysis System, </b></i> <br/>
+Planned and constructed data pipelines, data warehousing, and data analytics and visualization systems for user
+events and KPI analytics.
+Analyzed millions of data points across services from more than 2 million users per day to assist the operation
+and management teams in market research and further planning.
+Researched and Implemented Open Source projects such as Apache Pinot, Apache Superset, Trino, Mage AI,
+MinIO, Scylla DB.
+
+- <b><i> Hamro Patro News: News Recommendation System,  </b></i> <br/>
+Contributed to the redesigning and re-engineering of Hamro News service, one of the most used services of
+Hamro Patro.Studied and implemented Vector databases like ChromaDB and Milvus DB for semantic searches.
+Integrated OpenAI for embedding news data for sematic searches
+
 - fuzzy search
 - super fast performance
 - draft posts

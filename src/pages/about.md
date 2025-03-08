@@ -22,7 +22,7 @@ This theme is written in vanilla JavaScript (+ TypeScript for type checking) and
 
 I have build many industrial projects. Some ineresting  projects are:-
 
-- <b><i> Hamro Patro Remit: Cross-border Payment System, </b></i> <br/>
+- <b><i> Hamro Remit: Cross-border Payment System, </b></i> <br/>
 Contributed to the development of a remittance platform and its ecosystem for users in the USA,
 Australia, and Japan. Integrated pay-in and pay-out partners for payment operators, wallet support.
 Used Java, Micronaut, gRPC, PostgreSQL, Redis and worked on Hexagonal Architecture.
@@ -44,7 +44,7 @@ Integrated OpenAI for embedding news data for sematic searches
 - super fast performance
 - draft posts
 - pagination
-- sitemap & rss feed
+- sitemap & rss Feated
 - highly customizable
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  

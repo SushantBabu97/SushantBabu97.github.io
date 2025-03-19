@@ -10,19 +10,19 @@ import type { Page } from "astro";
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
-  page: Page<CollectionEntry<"blog">>;
+  page: Page<CollectionEntry<"project">>;
 }
 
 const { page } = Astro.props;
 ---
 
-<Layout title={`Posts | ${SITE.title}`}>
+<Layout title={`Projects | ${SITE.title}`}>
   <Header activeNav="projects" />
   <Main pageTitle="Projects" pageDesc="Some of the projects I have contributed to,">
     <ul>
       {
         page.data.map(({ data, slug }) => (
-          <ProjectCard href={`/posts/${slug}/`} frontmatter={data} />
+          <ProjectCard href={`/projects/${slug}/`} frontmatter={data} />
         ))
       }
     </ul>

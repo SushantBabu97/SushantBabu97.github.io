@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-Hi, I am Sushant Babu Luite, a Software Engineer from Nepal. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi, I am Sushant Babu Luitel, a Software Engineer from Nepal. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
@@ -40,12 +40,3 @@ Contributed to the redesigning and re-engineering of Hamro News service, one of 
 Hamro Patro.Studied and implemented Vector databases like ChromaDB and Milvus DB for semantic searches.
 Integrated OpenAI for embedding news data for sematic searches
 
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss Feated
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).

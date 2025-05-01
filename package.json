@@ -1,5 +1,5 @@
 {
-  "name": "cyan-chroma",
+  "name": "portfolio",
   "version": "4.7.0",
   "scripts": {
     "dev": "astro dev",

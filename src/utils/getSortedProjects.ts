@@ -1,7 +1,7 @@
 import type { CollectionEntry } from "astro:content";
 
-const getSortedProjects = (posts: CollectionEntry<"project">[]) => {
-  return posts
+const getSortedProjects = (projects: CollectionEntry<"project">[]) => {
+  return projects
     .sort(
       (a, b) =>
         Math.floor(

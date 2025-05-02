@@ -5,7 +5,6 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Pagination from "@components/Pagination.astro";
 import ProjectCard from "@components/ProjectCard";
-import { SITE } from "@config";
 import type { Page } from "astro";
 import type { CollectionEntry } from "astro:content";
 
@@ -16,7 +15,7 @@ export interface Props {
 const { page } = Astro.props;
 ---
 
-<Layout title={`Projects | ${SITE.title}`}>
+<Layout title={`Projects`}>
   <Header activeNav="projects" />
   <Main pageTitle="Projects" pageDesc="Some of the projects I have contributed to,">
     <ul>

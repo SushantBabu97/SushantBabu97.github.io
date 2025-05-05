@@ -1,18 +1,21 @@
 ---
 title: Hamro Remit
-author: Sat Naing
+author: Sushant Babu Luitel
 pubDatetime: 2022-03-25T02:05:51Z
 featured: false
 draft: false
 tags:
-  - TypeScript
-  - Astro
+  - Java
+  - Fintech
 description: "EXAMPLE POST: About Tailwind Typography Plugin and how you can use it effectively."
 ---
 
 > This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
 
-By default, Tailwind removes all of the default browser styling from paragraphs, headings, lists and more. This ends up being really useful for building application UIs because you spend less time undoing user-agent styles, but when you _really are_ just trying to style some content that came from a rich-text editor in a CMS or a markdown file, it can be surprising and unintuitive.
+Hamro Remit: Cross-border Payment System, <br/>
+Contributed to the development of a remittance platform and its ecosystem for users in the USA,
+Australia, and Japan. Integrated pay-in and pay-out partners for payment operators, wallet support.
+Used Java, Micronaut, gRPC, PostgreSQL, Redis and worked on Hexagonal Architecture.
 
 We get lots of complaints about it actually, with people regularly asking us things like:
 

@@ -9,3 +9,7 @@ tags:
   - VectorDB
 description: "News Recommendation System"
 ---
+
+Contributed to the redesigning and re-engineering of Hamro News service, one of the most used services of
+Hamro Patro.Studied and implemented Vector databases like ChromaDB and Milvus DB for semantic searches.
+Integrated OpenAI for embedding news data for sematic searches

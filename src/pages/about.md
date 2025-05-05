@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-Hi, I am Sushant Babu Luitel, a Software Engineer from Nepal. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Hi, I am Sushant Babu Luitel, a Software Engineer from Nepal. 
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
@@ -16,7 +16,7 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+
 
 ## Projects
 

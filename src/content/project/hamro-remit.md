@@ -7,7 +7,7 @@ draft: false
 tags:
   - Java
   - Fintech
-description: "EXAMPLE POST: About Tailwind Typography Plugin and how you can use it effectively."
+description: "Fintech - Remit Ecosystem to send money back to Nepal from different countries."
 ---
 
 > This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.

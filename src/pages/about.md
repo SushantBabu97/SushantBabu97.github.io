@@ -8,6 +8,8 @@ Hi, I am Sushant Babu Luitel, a Software Engineer from Nepal.
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
 
+Currently I am exploring Clickhoue DB and Party Role Model
+
 This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
 <div>

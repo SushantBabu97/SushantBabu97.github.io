@@ -2,7 +2,7 @@
 author: Sushant Babu Luitel
 pubDatetime: 2025-09-20T09:30:41.816Z
 title: Nats UI Opensourced
-slug: "java-to-go"
+slug: "heynats"
 featured: true
 ogImage: ../../assets/images/AstroPaper-v4.png
 tags:

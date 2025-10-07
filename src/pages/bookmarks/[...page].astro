@@ -1,0 +1,16 @@
+---
+import { SITE } from "@config";
+import Bookmarks from "@layouts/Bookmarks.astro";
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import getSortedBookmarks from "@utils/getSortedBookmarks";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const bookmarks = await getCollection("bookmark", ({ data }) => !data.draft);
+  return paginate(getSortedBookmarks(bookmarks), { pageSize: SITE.postPerPage });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<Bookmarks {page} />

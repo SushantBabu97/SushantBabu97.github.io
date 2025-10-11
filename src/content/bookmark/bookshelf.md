@@ -23,4 +23,4 @@ description: "Books I have read"
 > - Half Girlfriend || by Chetan Bhagat
 > - Man, Woman, and Child || by Erich Segal
 > - What I Did not Learn at IIT || by Rajeev Agrawal
-> - Sapiens || by Yuval
+> - Sapiens || by Yuval Noah Harari

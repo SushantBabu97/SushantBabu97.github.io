@@ -24,3 +24,4 @@ description: "Books I have read"
 > - Man, Woman, and Child || by Erich Segal
 > - What I Did not Learn at IIT || by Rajeev Agrawal
 > - Sapiens || by Yuval Noah Harari
+> - How to Lie With Statistics || by Darell Huff

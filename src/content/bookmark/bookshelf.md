@@ -4,6 +4,7 @@ author: Sushant Babu Luitel
 pubDatetime: 2025-10-07T02:05:51Z
 featured: true
 draft: false
+slug: bookshelf
 tags:
   - Books
 description: "Books I have read"

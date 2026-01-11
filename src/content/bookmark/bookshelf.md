@@ -31,3 +31,4 @@ description: "Books I have read"
 > - How to Lie With Statistics || by Darell Huff
 > - The Alchemist
 > - Erika And King Tribhuvan || by Erika Leuchtag
+> - Zero To One || by Peter Thiel

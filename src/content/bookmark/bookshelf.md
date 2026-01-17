@@ -11,7 +11,7 @@ description: "Books I have read"
 ---
 #### Wishlist
 > - The Culture Code || by Daniel Coyle
-> - Shoe Dog
+> - The Shoe Dog || by Phil Knight
 ---
 > - That Will Never Work || by Marc Randolph
 > - Absolute Power || by David Baldacci
@@ -30,7 +30,8 @@ description: "Books I have read"
 > - What I Did not Learn at IIT || by Rajeev Agrawal
 > - Sapiens || by Yuval Noah Harari
 > - How to Lie With Statistics || by Darell Huff
-> - The Alchemist
+> - The Alchemist || by Paulo Coelho
 > - Erika And King Tribhuvan || by Erika Leuchtag
 > - Zero To One || by Peter Thiel
 > - Mindset || by Caroll S Dweck
+> - 

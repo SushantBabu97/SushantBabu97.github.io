@@ -9,6 +9,9 @@ tags:
   - Books
 description: "Books I have read"
 ---
+#### Current Read
+> - No Rules Rules
+---
 #### Wishlist
 > - The Culture Code || by Daniel Coyle
 > - The Shoe Dog || by Phil Knight

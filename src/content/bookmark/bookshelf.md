@@ -10,7 +10,7 @@ tags:
 description: "Books I have read"
 ---
 #### Current Read
-> - No Rules Rules
+> - No Rules Rules || by Reed Hastings & Erin Meyer
 ---
 #### Wishlist
 > - The Culture Code || by Daniel Coyle

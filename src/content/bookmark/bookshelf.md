@@ -9,32 +9,39 @@ tags:
   - Books
 description: "Books I have read"
 ---
-#### Current Read
-> - No Rules Rules || by Reed Hastings & Erin Meyer
+# 📚 Reading List
+
+## 🔖 Currently Reading
+- **No Rules Rules** — *Reed Hastings & Erin Meyer*
+
 ---
-#### Wishlist
-> - The Culture Code || by Daniel Coyle
-> - The Shoe Dog || by Phil Knight
+
+## 🧠 Wishlist
+- **The Culture Code** — *Daniel Coyle*
+- **Shoe Dog** — *Phil Knight*
+
 ---
-> - That Will Never Work || by Marc Randolph
-> - Absolute Power || by David Baldacci
-> - Steve Jobs || by Walter Isaacson
-> - Einstein: His Life and Universe || by Walter Isaacson
-> - Innovators || by Walter Isaacson
-> - The Subtle Art of Not Giving a F**K || by Mark Manson
-> - Factfullness || Hans Rosling
-> - Algorithms to Live By: The Computer Science of Human Decisions || by Brian Christian
-> - The Tipping Point || by Malcolm Gladwell
-> - Outliers || by Malcolm Gladwell
-> - Geetanjali || by Rabindranath Tagore
-> - The 3 Mistakes of My Life || by Chetan Bhagat
-> - Half Girlfriend || by Chetan Bhagat
-> - Man, Woman, and Child || by Erich Segal
-> - What I Did not Learn at IIT || by Rajeev Agrawal
-> - Sapiens || by Yuval Noah Harari
-> - How to Lie With Statistics || by Darell Huff
-> - The Alchemist || by Paulo Coelho
-> - Erika And King Tribhuvan || by Erika Leuchtag
-> - Zero To One || by Peter Thiel
-> - Mindset || by Caroll S Dweck
-> - Aithan (ऐँठन) || by Bibek Ojha
+
+## ✅ Read
+- **That Will Never Work** — *Marc Randolph*
+- **Absolute Power** — *David Baldacci*
+- **Steve Jobs** — *Walter Isaacson*
+- **Einstein: His Life and Universe** — *Walter Isaacson*
+- **The Innovators** — *Walter Isaacson*
+- **The Subtle Art of Not Giving a F\*\*k** — *Mark Manson*
+- **Factfulness** — *Hans Rosling*
+- **Algorithms to Live By** — *Brian Christian & Tom Griffiths*
+- **The Tipping Point** — *Malcolm Gladwell*
+- **Outliers** — *Malcolm Gladwell*
+- **Gitanjali** — *Rabindranath Tagore*
+- **The 3 Mistakes of My Life** — *Chetan Bhagat*
+- **Half Girlfriend** — *Chetan Bhagat*
+- **Man, Woman and Child** — *Erich Segal*
+- **What I Did Not Learn at IIT** — *Rajeev Agrawal*
+- **Sapiens** — *Yuval Noah Harari*
+- **How to Lie with Statistics** — *Darrell Huff*
+- **The Alchemist** — *Paulo Coelho*
+- **Erika and King Tribhuvan** — *Erika Leuchtag*
+- **Zero to One** — *Peter Thiel*
+- **Mindset** — *Carol S. Dweck*
+- **Aithan (ऐँठन)** — *Bibek Ojha*

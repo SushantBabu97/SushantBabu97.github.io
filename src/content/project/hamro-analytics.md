@@ -2,6 +2,7 @@
 title: Hamro Analytics
 author: Sushant Babu Luitel
 pubDatetime: 2025-01-24T02:05:51Z
+slug: hamro-analytics
 featured: false
 draft: false
 tags:

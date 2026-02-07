@@ -2,6 +2,7 @@
 title: Hamro Remit
 author: Sushant Babu Luitel
 pubDatetime: 2022-03-25T02:05:51Z
+slug: hamro-remit
 featured: false
 draft: false
 tags:

@@ -2,6 +2,7 @@
 title: Aster Consult
 author: Sushant Babu Luitel
 pubDatetime: 2025-07-18T02:05:51Z
+slug: aster-consult
 featured: false
 draft: false
 tags:

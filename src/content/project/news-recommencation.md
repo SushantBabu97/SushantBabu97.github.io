@@ -2,6 +2,7 @@
 title: News Recommendation
 author: Sushant Babu Luitel
 pubDatetime: 2024-04-24T02:05:51Z
+slug: news-recommendation
 featured: false
 draft: false
 tags:

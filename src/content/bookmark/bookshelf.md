@@ -45,3 +45,4 @@ description: "Books I have read"
 - **Zero to One** — *Peter Thiel*
 - **Mindset** — *Carol S. Dweck*
 - **Aithan (ऐँठन)** — *Bibek Ojha*
+- **The Alchemist** — *Paulo Coelho*

@@ -46,4 +46,4 @@ description: "Books I have read"
 - **Mindset** — *Carol S. Dweck*
 - **Aithan (ऐँठन)** — *Bibek Ojha*
 - **The Alchemist** — *Paulo Coelho*
-- **Muna Madan**
+- **Muna Madan** - *Laxmi Prasad Devkota*

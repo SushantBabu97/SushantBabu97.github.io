@@ -12,7 +12,7 @@ description: "Books I have read"
 # 📚 Reading List
 
 ## 🔖 Currently Reading
-- **No Rules Rules** — *Reed Hastings & Erin Meyer*
+- **Prayogshala** — *Reed Hastings & Erin Meyer*
 
 ---
 

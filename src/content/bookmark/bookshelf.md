@@ -12,10 +12,7 @@ description: "Books I have read"
 # 📚 Reading List
 
 ## 🔖 Currently Reading
-- **Prayogshala** — *Reed Hastings & Erin Meyer*
-
----
-
+- **Prayogshala** — *Sudhir Sharma*
 ## 🧠 Wishlist
 - **The Culture Code** — *Daniel Coyle*
 - **Shoe Dog** — *Phil Knight*
@@ -47,4 +44,4 @@ description: "Books I have read"
 - **Aithan (ऐँठन)** — *Bibek Ojha*
 - **The Alchemist** — *Paulo Coelho*
 - **Muna Madan** - *Laxmi Prasad Devkota*
-- - **No Rules Rules** - *Reed Hastings & Erin Meyer*
+- **No Rules Rules** - *Reed Hastings & Erin Meyer*

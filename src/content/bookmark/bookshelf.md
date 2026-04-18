@@ -15,7 +15,6 @@ description: "Books I have read"
 - **Prayogshala** — *Sudhir Sharma*
 ## 🧠 Wishlist
 - **The Culture Code** — *Daniel Coyle*
-- **Shoe Dog** — *Phil Knight*
 
 ---
 

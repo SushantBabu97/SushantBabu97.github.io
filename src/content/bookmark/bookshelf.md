@@ -36,6 +36,7 @@ description: "Books I have read"
 - **Man, Woman and Child** — *Erich Segal*
 - **What I Did Not Learn at IIT** — *Rajeev Agrawal*
 - **Sapiens** — *Yuval Noah Harari*
+- **Homo Deus** — *Yuval Noah Harari*
 - **How to Lie with Statistics** — *Darrell Huff*
 - **The Alchemist** — *Paulo Coelho*
 - **Erika and King Tribhuvan** — *Erika Leuchtag*
@@ -46,3 +47,11 @@ description: "Books I have read"
 - **Muna Madan** - *Laxmi Prasad Devkota*
 - **No Rules Rules** - *Reed Hastings & Erin Meyer*
 - **And The Mountains Echoed** - *Khaled Hosseini*
+- **The 3 Mistakes of My Life** - *Chetan Bhagat*
+- **Think and Grow Rich** - *Napoleon Hill*
+- **How to Win Friends and Influence People** - *Dale Carnegie*
+- **Greatest Poetry Ever Written** - *William Wordsworth*
+- **Anna Karenina** - *Leo Tolstoy*
+- **The Future is Faster Than You Think** - *Peter H. Diamandis*
+- **Nathiya (नाथिया)** - *Saraswati Pratikshya*
+- **Summer Love** - *Subin Bhattarai*

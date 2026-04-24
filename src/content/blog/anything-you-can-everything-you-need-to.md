@@ -11,3 +11,5 @@ tags:
   - Philosophy
 description: "In a startup, you often have to do everything yourself. But is that really the best way to build a product?"
 ---
+
+Do what you can, with what you have, where you are. This is a common mantra in the startup world. It encourages founders to be resourceful and to take action, even when they don't have all the resources or expertise they think they need. But is this really the best way to build a product?

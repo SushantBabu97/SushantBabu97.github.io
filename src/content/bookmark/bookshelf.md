@@ -12,7 +12,7 @@ description: "Books I have read"
 # 📚 Reading List
 
 ## 🔖 Currently Reading
-- **Pagal Basti** — *Sarubhakta*
+- **Pagal Basti (पागल बस्ती)** — *Sarubhakta*
 - **Prayogshala** — *Sudhir Sharma*
 ## 🧠 Wishlist
 - **The Culture Code** — *Daniel Coyle*

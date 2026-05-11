@@ -43,11 +43,9 @@ description: "Books I have read"
 - **Zero to One** — *Peter Thiel*
 - **Mindset** — *Carol S. Dweck*
 - **Aithan (ऐँठन)** — *Bibek Ojha*
-- **The Alchemist** — *Paulo Coelho*
-- **Muna Madan** - *Laxmi Prasad Devkota*
+- **Muna Madan (मुना मदन)** - *Laxmi Prasad Devkota*
 - **No Rules Rules** - *Reed Hastings & Erin Meyer*
 - **And The Mountains Echoed** - *Khaled Hosseini*
-- **The 3 Mistakes of My Life** - *Chetan Bhagat*
 - **Think and Grow Rich** - *Napoleon Hill*
 - **How to Win Friends and Influence People** - *Dale Carnegie*
 - **Greatest Poetry Ever Written** - *William Wordsworth*
@@ -56,3 +54,19 @@ description: "Books I have read"
 - **Nathiya (नाथिया)** - *Saraswati Pratikshya*
 - **Summer Love (समर लभ)** - *Subin Bhattarai*
 - **Saya (साया)** - *Subin Battarai*
+- **21 Lessons for the 21st Century** - *Yuval Noah Harari*
+- **Crime and Punishment** - *Fyodor Dostoevsky*
+- **Jiwan Kada ki Phool (जीवन काँडा कि फूल)** - *Jhamak Ghimire*
+- **Ek Chihan (एक चिहान)** - *Hridaya Chandra Singh Pradhan*
+- **Doshi Chashma (दोषी चश्मा)** - *Bishweshwar Prasad Koirala*
+- **Seto Bagh (सेतो बाघ)** - *Diamond Shumsher Rana*
+- **Shirishko Phool (शिरीषको फूल)** - *Parijat*
+- **Sumnima (सुम्निमा)** - *Bishweshwar Prasad Koirala*
+- **Teen Ghumti (तीन घुम्ती)** - *Bishweshwar Prasad Koirala*
+- **Modiain (मोदीआइन)** - *Bishweshwar Prasad Koirala*
+- **Swet Bhairabi (स्वेत भैरवी)** - *Bishweshwar Prasad Koirala*
+- **Freedom To Die** - *Nirmal Gyanwali*
+- **Mero Sikhar Tadha Cha (मेरो शिखर टाढा छ)** - *Jivan Khatri*
+- **Kathmandu** - *Thomas Bell*
+- **Malati Mangale (मालती मंगले)** - *Madhav Prasad Ghimire*
+- **Devata (देवता)** - *Prakash Kovid*

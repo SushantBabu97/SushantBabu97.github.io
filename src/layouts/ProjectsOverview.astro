@@ -1,0 +1,48 @@
+---
+import Layout from "@layouts/Layout.astro";
+import Main from "@layouts/Main.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import ProjectCard from "@components/ProjectCard";
+import { getCollection } from "astro:content";
+
+interface Props {
+  title?: string;
+}
+
+const { title = "Projects" } = Astro.props;
+
+// Get all projects from collection
+const allProjects = await getCollection("project");
+const sortedProjects = allProjects
+  .filter(project => !project.data.draft)
+  .sort((a, b) => {
+    // Featured projects first
+    if (a.data.featured !== b.data.featured) {
+      return (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0);
+    }
+    // Then by date
+    return (
+      new Date(b.data.pubDatetime).valueOf() -
+      new Date(a.data.pubDatetime).valueOf()
+    );
+  });
+---
+
+<Layout title={title}>
+  <Header activeNav="projects" />
+  <Main
+    pageTitle="Projects"
+    pageDesc="A collection of projects I've worked on and contributed to"
+  >
+    <ul>
+      {
+        sortedProjects.map(({ data, id }) => (
+          <ProjectCard href={`/projects/${id}/`} frontmatter={data} />
+        ))
+      }
+    </ul>
+  </Main>
+
+  <Footer />
+</Layout>

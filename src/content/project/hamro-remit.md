@@ -3,31 +3,42 @@ title: Hamro Remit
 author: Sushant Babu Luitel
 pubDatetime: 2022-03-25T02:05:51Z
 slug: hamro-remit
-featured: false
+featured: true
 draft: false
 tags:
   - Java
   - Fintech
-description: "Fintech - Remit Ecosystem to send money back to Nepal from different countries."
+  - Micronaut
+  - gRPC
+  - PostgreSQL
+description: "Cross-border Payment System enabling Nepali diaspora to send money to Nepal with USD $5M+ monthly volume"
 ---
 
-> This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
+## Hamro Remit: Cross-border Payment System
 
-Hamro Remit: Cross-border Payment System, <br/>
-Contributed to the development of a remittance platform and its ecosystem for users in the USA,
-Australia, and Japan. Integrated pay-in and pay-out partners for payment operators, wallet support.
-Used Java, Micronaut, gRPC, PostgreSQL, Redis and worked on Hexagonal Architecture.
+A remittance platform connecting Nepali diaspora in the USA, Australia, and Japan to send money directly to receivers' bank accounts in Nepal.
 
-We get lots of complaints about it actually, with people regularly asking us things like:
+### Impact
 
-> Why is Tailwind removing the default styles on my `h1` elements? How do I disable this? What do you mean I lose all the other base styles too?
-> We hear you, but we're not convinced that simply disabling our base styles is what you really want. You don't want to have to remove annoying margins every time you use a `p` element in a piece of your dashboard UI. And I doubt you really want your blog posts to use the user-agent styles either — you want them to look _awesome_, not awful.
+- **18,000+ users** actively using the platform
+- **USD $5M+ monthly transaction volume**
+- Regulatory-compliant with Nepal Rastra Bank
 
-The `@tailwindcss/typography` plugin is our attempt to give you what you _actually_ want, without any of the downsides of doing something stupid like disabling our base styles.
+### What I Contributed
 
-It adds a new `prose` class that you can slap on any block of vanilla HTML content and turn it into a beautiful, well-formatted document:
+- **Remittance Application Development**: Built the core inflow remittance application
+- **Payment Partner Integration**: Integrated pay-in and pay-out partners, payment operators, and wallet support
+- **Regulatory Compliance**: Worked with Nepal Rastra Bank team to implement Suspicious Transactions Reporting system
+- **Strategic Partnerships**: Coordinated with Nepali Payment System Operators (PSOs) and international partners
 
-```html
+### Tech Stack
+
+- **Backend**: Java, Micronaut framework, gRPC
+- **Database**: PostgreSQL, Redis (caching)
+- **Architecture**: Hexagonal Architecture (Domain-Driven Design)
+- **Protocols**: gRPC for inter-service communication
+
+[Try it here](https://hamroremit.com)
 <article class="prose">
   <h1>Garlic bread with cheese: What the science tells us</h1>
   <p>

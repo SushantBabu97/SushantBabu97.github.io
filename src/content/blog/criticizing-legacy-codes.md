@@ -3,7 +3,8 @@ author: Sushant Babu Luitel
 pubDatetime: 2025-07-31T09:30:41.816Z
 title: Problem 102 - Criticizing Legacy Codes
 slug: criticizing-legacy-codes
-featured: true
+featured: false
+draft: true
 ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - Philosophy

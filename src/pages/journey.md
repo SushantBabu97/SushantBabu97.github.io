@@ -20,7 +20,7 @@ title: "Journey"
     </ul>
     <p class="mt-2 font-medium">Projects</p>
     <ul class="list-disc ml-5 text-sm">
-      <li><a class="text-skin-accent" href="https://www.astergaze.com" target="_blank">Astergaze Technologies</a> — Co-founded product engineering company; product leadership and team building.</li>
+      <li><a class="text-skin-accent" href="https://www.astergaze.com" target="_blank">AsterGaze Technologies</a> — Co-founded product engineering company; product leadership and team building.</li>
       <li><a class="text-skin-accent" href="https://www.asterconsult.app" target="_blank">AsterConsult</a> — CRM solution for study-abroad ecosystem (multitenant SaaS, Go, PostgreSQL, React).</li>
       <li><a class="text-skin-accent" href="https://www.bidhyarthi.com" target="_blank">Bidhyarthi</a> — AI-powered guide for students (Node.js, PGVector, Genkit).</li>
     </ul>

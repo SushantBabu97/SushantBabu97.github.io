@@ -9,7 +9,7 @@ I started my journey at HamroPatro as a software engineer, working on systems se
 
 Over time, I became drawn to building from zero to one.
 
-Today, I’m co-founder and CPO of Astergaze Technologies, where I still actively work as a software engineer. I lead product strategy, architecture, and execution while staying hands-on with building systems. My focus is on designing scalable architectures, making thoughtful trade-offs, and creating tight feedback loops between users and product decisions.
+Today, I’m co-founder and CPO of AsterGaze Technologies, where I still actively work as a software engineer. I lead product strategy, architecture, and execution while staying hands-on with building systems. My focus is on designing scalable architectures, making thoughtful trade-offs, and creating tight feedback loops between users and product decisions.
 
 Recently, I’ve been exploring ClickHouse and data modeling approaches like the Party Role Model, with a growing interest in real-time, data-intensive systems.
 

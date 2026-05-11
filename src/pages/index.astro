@@ -13,7 +13,6 @@ import { SITE, SOCIALS } from "@config";
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
 const socialCount = SOCIALS.filter(social => social.active).length;
@@ -26,31 +25,35 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Sushant Babu Luitel</h1>
 
       <p>
-        Hello, I’m Sushant Babu Luitel — a Software Engineer focused on building scalable systems and thoughtful digital products.    
+        Hello, I’m Sushant Babu Luitel — a Software Engineer focused on building
+        scalable systems and thoughtful digital products.
       </p>
       <p>
-        I work at the intersection of engineering and product, turning ideas into reliable, real-world solutions. Currently, 
-        I’m building
+        I work at the intersection of engineering and product, turning ideas
+        into reliable, real-world solutions. Currently, I’m building
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="https://astergaze.com"
         >
           Astergaze
-      </LinkButton>, where I spend most of my time designing systems,
-        shaping products, and writing code.
-      </p> 
-      <p> I’m always interested in new ideas, meaningful conversations, and collaborating on things that actually matter.</p>
-      <p>Want to know more about my journey? Visit the 
-      <LinkButton
+        </LinkButton>, where I spend most of my time designing systems, shaping
+        products, and writing code.
+      </p>
+      <p>
+        I’m always interested in new ideas, meaningful conversations, and
+        collaborating on things that actually matter.
+      </p>
+      <p>
+        Want to know more about my journey? Visit the
+        <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="/about/"
         >
           About
-      </LinkButton> page.
-        If you’d like to connect, feel free to reach out — I’m always open to a good conversation. </p>
-      <p>
-        
+        </LinkButton> page. If you’d like to connect, feel free to reach out — I’m
+        always open to a good conversation.
       </p>
+      <p></p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (

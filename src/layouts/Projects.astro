@@ -17,7 +17,10 @@ const { page } = Astro.props;
 
 <Layout title={`Projects`}>
   <Header activeNav="projects" />
-  <Main pageTitle="Projects" pageDesc="Some of the projects I have contributed to,">
+  <Main
+    pageTitle="Projects"
+    pageDesc="Some of the projects I have contributed to,"
+  >
     <ul>
       {
         page.data.map(({ data, id }) => (

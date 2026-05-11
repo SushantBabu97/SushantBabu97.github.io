@@ -7,7 +7,9 @@ import getSortedBookmarks from "@utils/getSortedBookmarks";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const bookmarks = await getCollection("bookmark", ({ data }) => !data.draft);
-  return paginate(getSortedBookmarks(bookmarks), { pageSize: SITE.postPerPage });
+  return paginate(getSortedBookmarks(bookmarks), {
+    pageSize: SITE.postPerPage,
+  });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;

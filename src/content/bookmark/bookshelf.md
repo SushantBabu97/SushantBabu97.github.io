@@ -9,64 +9,69 @@ tags:
   - Books
 description: "Books I have read"
 ---
+
 # 📚 Reading List
 
 ## 🔖 Currently Reading
-- **Pagal Basti (पागल बस्ती)** — *Sarubhakta*
-- **Prayogshala** — *Sudhir Sharma*
+
+- **Pagal Basti (पागल बस्ती)** — _Sarubhakta_
+- **Prayogshala** — _Sudhir Sharma_
+
 ## 🧠 Wishlist
-- **The Culture Code** — *Daniel Coyle*
+
+- **The Culture Code** — _Daniel Coyle_
 
 ---
 
 ## ✅ Read
-- **That Will Never Work** — *Marc Randolph*
-- **Absolute Power** — *David Baldacci*
-- **Steve Jobs** — *Walter Isaacson*
-- **Einstein: His Life and Universe** — *Walter Isaacson*
-- **The Innovators** — *Walter Isaacson*
-- **The Subtle Art of Not Giving a F\*\*k** — *Mark Manson*
-- **Factfulness** — *Hans Rosling*
-- **Algorithms to Live By** — *Brian Christian & Tom Griffiths*
-- **The Tipping Point** — *Malcolm Gladwell*
-- **Outliers** — *Malcolm Gladwell*
-- **Gitanjali** — *Rabindranath Tagore*
-- **The 3 Mistakes of My Life** — *Chetan Bhagat*
-- **Half Girlfriend** — *Chetan Bhagat*
-- **Man, Woman and Child** — *Erich Segal*
-- **What I Did Not Learn at IIT** — *Rajeev Agrawal*
-- **Sapiens** — *Yuval Noah Harari*
-- **Homo Deus** — *Yuval Noah Harari*
-- **How to Lie with Statistics** — *Darrell Huff*
-- **The Alchemist** — *Paulo Coelho*
-- **Erika and King Tribhuvan** — *Erika Leuchtag*
-- **Zero to One** — *Peter Thiel*
-- **Mindset** — *Carol S. Dweck*
-- **Aithan (ऐँठन)** — *Bibek Ojha*
-- **Muna Madan (मुना मदन)** - *Laxmi Prasad Devkota*
-- **No Rules Rules** - *Reed Hastings & Erin Meyer*
-- **And The Mountains Echoed** - *Khaled Hosseini*
-- **Think and Grow Rich** - *Napoleon Hill*
-- **How to Win Friends and Influence People** - *Dale Carnegie*
-- **Greatest Poetry Ever Written** - *William Wordsworth*
-- **Anna Karenina** - *Leo Tolstoy*
-- **The Future is Faster Than You Think** - *Peter H. Diamandis*
-- **Nathiya (नाथिया)** - *Saraswati Pratikshya*
-- **Summer Love (समर लभ)** - *Subin Bhattarai*
-- **Saya (साया)** - *Subin Battarai*
-- **21 Lessons for the 21st Century** - *Yuval Noah Harari*
-- **Crime and Punishment** - *Fyodor Dostoevsky*
-- **Jiwan Kada ki Phool (जीवन काँडा कि फूल)** - *Jhamak Ghimire*
-- **Ek Chihan (एक चिहान)** - *Hridaya Chandra Singh Pradhan*
-- **Doshi Chashma (दोषी चश्मा)** - *Bishweshwar Prasad Koirala*
-- **Seto Bagh (सेतो बाघ)** - *Diamond Shumsher Rana*
-- **Shirishko Phool (शिरीषको फूल)** - *Parijat*
-- **Sumnima (सुम्निमा)** - *Bishweshwar Prasad Koirala*
-- **Teen Ghumti (तीन घुम्ती)** - *Bishweshwar Prasad Koirala*
-- **Modiain (मोदीआइन)** - *Bishweshwar Prasad Koirala*
-- **Swet Bhairabi (स्वेत भैरवी)** - *Bishweshwar Prasad Koirala*
-- **Freedom To Die** - *Nirmal Gyanwali*
-- **Mero Sikhar Tadha Cha (मेरो शिखर टाढा छ)** - *Jivan Khatri*
-- **Kathmandu** - *Thomas Bell*
-- **Malati Mangale (मालती मंगले)** - *Madhav Prasad Ghimire*
-- **Devata (देवता)** - *Prakash Kovid*
+
+- **That Will Never Work** — _Marc Randolph_
+- **Absolute Power** — _David Baldacci_
+- **Steve Jobs** — _Walter Isaacson_
+- **Einstein: His Life and Universe** — _Walter Isaacson_
+- **The Innovators** — _Walter Isaacson_
+- **The Subtle Art of Not Giving a F\*\*k** — _Mark Manson_
+- **Factfulness** — _Hans Rosling_
+- **Algorithms to Live By** — _Brian Christian & Tom Griffiths_
+- **The Tipping Point** — _Malcolm Gladwell_
+- **Outliers** — _Malcolm Gladwell_
+- **Gitanjali** — _Rabindranath Tagore_
+- **The 3 Mistakes of My Life** — _Chetan Bhagat_
+- **Half Girlfriend** — _Chetan Bhagat_
+- **Man, Woman and Child** — _Erich Segal_
+- **What I Did Not Learn at IIT** — _Rajeev Agrawal_
+- **Sapiens** — _Yuval Noah Harari_
+- **Homo Deus** — _Yuval Noah Harari_
+- **How to Lie with Statistics** — _Darrell Huff_
+- **The Alchemist** — _Paulo Coelho_
+- **Erika and King Tribhuvan** — _Erika Leuchtag_
+- **Zero to One** — _Peter Thiel_
+- **Mindset** — _Carol S. Dweck_
+- **Aithan (ऐँठन)** — _Bibek Ojha_
+- **Muna Madan (मुना मदन)** - _Laxmi Prasad Devkota_
+- **No Rules Rules** - _Reed Hastings & Erin Meyer_
+- **And The Mountains Echoed** - _Khaled Hosseini_
+- **Think and Grow Rich** - _Napoleon Hill_
+- **How to Win Friends and Influence People** - _Dale Carnegie_
+- **Greatest Poetry Ever Written** - _William Wordsworth_
+- **Anna Karenina** - _Leo Tolstoy_
+- **The Future is Faster Than You Think** - _Peter H. Diamandis_
+- **Nathiya (नाथिया)** - _Saraswati Pratikshya_
+- **Summer Love (समर लभ)** - _Subin Bhattarai_
+- **Saya (साया)** - _Subin Battarai_
+- **21 Lessons for the 21st Century** - _Yuval Noah Harari_
+- **Crime and Punishment** - _Fyodor Dostoevsky_
+- **Jiwan Kada ki Phool (जीवन काँडा कि फूल)** - _Jhamak Ghimire_
+- **Ek Chihan (एक चिहान)** - _Hridaya Chandra Singh Pradhan_
+- **Doshi Chashma (दोषी चश्मा)** - _Bishweshwar Prasad Koirala_
+- **Seto Bagh (सेतो बाघ)** - _Diamond Shumsher Rana_
+- **Shirishko Phool (शिरीषको फूल)** - _Parijat_
+- **Sumnima (सुम्निमा)** - _Bishweshwar Prasad Koirala_
+- **Teen Ghumti (तीन घुम्ती)** - _Bishweshwar Prasad Koirala_
+- **Modiain (मोदीआइन)** - _Bishweshwar Prasad Koirala_
+- **Swet Bhairabi (स्वेत भैरवी)** - _Bishweshwar Prasad Koirala_
+- **Freedom To Die** - _Nirmal Gyanwali_
+- **Mero Sikhar Tadha Cha (मेरो शिखर टाढा छ)** - _Jivan Khatri_
+- **Kathmandu** - _Thomas Bell_
+- **Malati Mangale (मालती मंगले)** - _Madhav Prasad Ghimire_
+- **Devata (देवता)** - _Prakash Kovid_

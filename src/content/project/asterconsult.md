@@ -12,5 +12,5 @@ tags:
 description: "Study Abroad Ecosystem"
 ---
 
-Aster Consult is an study abroad ecosystem for students, counsellor and consultancies. 
+Aster Consult is an study abroad ecosystem for students, counsellor and consultancies.
 Planned and Developed from the bootstrap.

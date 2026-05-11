@@ -1,5 +1,5 @@
 ---
-title: Astergaze
+title: AsterGaze
 author: Sushant Babu Luitel
 pubDatetime: 2024-12-01T00:00:00Z
 slug: astergaze
@@ -12,7 +12,7 @@ tags:
 description: "Co-founded technology company focused on product innovation and engineering excellence"
 ---
 
-## Astergaze Technologies
+## AsterGaze Technologies
 
 Co-founded technology company with a focus on product innovation and engineering excellence.
 

@@ -27,7 +27,7 @@ title: "Journey"
 </section>
 
 <section class="card flex items-start gap-4 p-4 rounded-lg border">
-  <img src="https://media.licdn.com/dms/image/v2/C560BAQHuGVj_QroBrQ/company-logo_200_200/company-logo_200_200/0/1634048399886/renegade_insurances_logo?e=1779926400&v=beta&t=M87prCyP0Zt6Y7PKLWgsrb8POQBbO5qtqZMUWajwWHw" alt="Renegade Insurance logo" class="w-16 h-16 object-contain" />
+  <img src="https://renegade.zohodesk.com/portal/api/publicImages/458554000048457105?portalId=edbsnd8ef070ac45ee92840e96fbb913682798563dcc676777a0ee31fab7cc1451e5b" alt="Renegade Insurance logo" class="w-16 h-16 object-contain" />
   <div>
     <h3 class="text-lg font-semibold">Renegade Insurance — Software Development Engineer</h3>
     <div class="text-sm text-gray-500">Renegade Insurance · Full-time — Mar 2025 - Sep 2025 · Kathmandu, Nepal</div>

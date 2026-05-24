@@ -65,7 +65,7 @@ description: "Books I have read"
 - **Ek Chihan (एक चिहान)** - _Hridaya Chandra Singh Pradhan_
 - **Doshi Chashma (दोषी चश्मा)** - _Bishweshwar Prasad Koirala_
 - **Seto Bagh (सेतो बाघ)** - _Diamond Shumsher Rana_
-- **Shirishko Phool (शिरीषको फूल)** - _Parijat_
+- **Shirishko Phool (शिरीषको फूल)** - _Parijat(Bishnu Kumari Waiba)_
 - **Sumnima (सुम्निमा)** - _Bishweshwar Prasad Koirala_
 - **Teen Ghumti (तीन घुम्ती)** - _Bishweshwar Prasad Koirala_
 - **Modiain (मोदीआइन)** - _Bishweshwar Prasad Koirala_

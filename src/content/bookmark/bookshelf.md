@@ -15,10 +15,10 @@ description: "Books I have read"
 ## 🔖 Currently Reading
 
 - **Pagal Basti (पागल बस्ती)** — _Sarubhakta_
-- **Prayogshala** — _Sudhir Sharma_
 
 ## 🧠 Wishlist
 
+- **Prayogshala** — _Sudhir Sharma_
 - **The Culture Code** — _Daniel Coyle_
 
 ---

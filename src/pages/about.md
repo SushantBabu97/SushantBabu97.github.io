@@ -15,6 +15,4 @@ Recently, I’ve been exploring ClickHouse and data modeling approaches like the
 
 I’m driven by a simple idea: great products come from deeply understanding both systems and the people who use them.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+

@@ -14,7 +14,6 @@ description: "Books I have read"
 
 ## 🔖 Currently Reading
 - **Prayogshala** — _Sudhir Sharma_
-- **Pagal Basti (पागल बस्ती)** — _Sarubhakta_
 
 ## 🧠 Wishlist
 - **The Culture Code** — _Daniel Coyle_
@@ -73,3 +72,4 @@ description: "Books I have read"
 - **Kathmandu** - _Thomas Bell_
 - **Malati Mangale (मालती मंगले)** - _Madhav Prasad Ghimire_
 - **Devata (देवता)** - _Prakash Kovid_
+- **Pagal Basti (पागल बस्ती)** — _Sarubhakta_

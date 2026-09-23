@@ -17,6 +17,7 @@ description: "Books I have read"
 
 ## 🧠 Wishlist
 - **The Culture Code** — _Daniel Coyle_
+- **One Page Marketing Plan** — _Allan Dib_
 
 ---
 

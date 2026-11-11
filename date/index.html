@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Will You Go Out With Me?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Step 1: the question -->
+  <section id="ask" class="card">
+    <div class="emoji">🥺👉👈</div>
+    <h1>Will you go on a date with me?</h1>
+    <div class="buttons">
+      <button id="yes" class="btn yes">Yes 💖</button>
+      <button id="no" class="btn no" tabindex="-1">No 😢</button>
+    </div>
+  </section>
+
+  <!-- Step 2: date form -->
+  <section id="plan" class="card hidden">
+    <div class="emoji">🥰🎉</div>
+    <h1>Yay! Let's plan it</h1>
+    <form id="date-form">
+      <label>Your name
+        <input type="text" name="name" required placeholder="Cutie" />
+      </label>
+      <label>Pick a day
+        <input type="date" name="day" required />
+      </label>
+      <label>Time
+        <input type="time" name="time" required />
+      </label>
+      <label>What should we do?
+        <select name="activity">
+          <option>☕ Coffee</option>
+          <option>🍕 Dinner</option>
+          <option>🎬 Movie</option>
+          <option>🌳 Walk in the park</option>
+          <option>🍦 Ice cream</option>
+        </select>
+      </label>
+      <label>Anything else?
+        <textarea name="note" rows="2" placeholder="Bring snacks..."></textarea>
+      </label>
+      <button type="submit" class="btn yes">It's a date! 💌</button>
+    </form>
+  </section>
+
+  <!-- Step 3: confirmation -->
+  <section id="done" class="card hidden">
+    <div class="emoji">💞</div>
+    <h1>See you soon!</h1>
+    <p id="summary"></p>
+  </section>
+
+  <script>
+    const no = document.getElementById("no");
+    const yes = document.getElementById("yes");
+    const texts = ["No 😢", "Nope", "Catch me!", "Too slow 😜", "Try again", "Just say yes!"];
+    let i = 0;
+
+    function runAway() {
+      const pad = 20;
+      const maxX = window.innerWidth - no.offsetWidth - pad;
+      const maxY = window.innerHeight - no.offsetHeight - pad;
+      no.style.position = "fixed";
+      no.style.left = Math.max(pad, Math.random() * maxX) + "px";
+      no.style.top = Math.max(pad, Math.random() * maxY) + "px";
+      no.textContent = texts[++i % texts.length];
+    }
+
+    // Flee when cursor gets within 100px
+    document.addEventListener("mousemove", (e) => {
+      const r = no.getBoundingClientRect();
+      const dx = e.clientX - (r.left + r.width / 2);
+      const dy = e.clientY - (r.top + r.height / 2);
+      if (Math.hypot(dx, dy) < 100) runAway();
+    });
+    // Mobile / safety nets
+    no.addEventListener("touchstart", (e) => { e.preventDefault(); runAway(); });
+    no.addEventListener("click", (e) => { e.preventDefault(); runAway(); });
+    no.addEventListener("focus", runAway);
+
+    yes.addEventListener("click", () => {
+      document.getElementById("ask").classList.add("hidden");
+      document.getElementById("plan").classList.remove("hidden");
+      no.remove();
+    });
+
+    document.getElementById("date-form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const d = Object.fromEntries(new FormData(e.target));
+      document.getElementById("summary").innerHTML =
+        `<strong>${escape(d.name)}</strong>, it's a date!<br>` +
+        `${escape(d.activity)} on <strong>${escape(d.day)}</strong> at <strong>${escape(d.time)}</strong>` +
+        (d.note ? `<br><em>"${escape(d.note)}"</em>` : "");
+      document.getElementById("plan").classList.add("hidden");
+      document.getElementById("done").classList.remove("hidden");
+    });
+
+    function escape(s) {
+      return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    }
+  </script>
+</body>
+</html>

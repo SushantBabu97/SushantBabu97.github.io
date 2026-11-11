@@ -13,11 +13,10 @@ description: "Books I have read"
 # 📚 Reading List
 
 ## 🔖 Currently Reading
-- **Prayogshala** — _Sudhir Sharma_
+- **One Page Marketing Plan** — _Allan Dib_
 
 ## 🧠 Wishlist
 - **The Culture Code** — _Daniel Coyle_
-- **One Page Marketing Plan** — _Allan Dib_
 
 ---
 
@@ -74,3 +73,4 @@ description: "Books I have read"
 - **Malati Mangale (मालती मंगले)** - _Madhav Prasad Ghimire_
 - **Devata (देवता)** - _Prakash Kovid_
 - **Pagal Basti (पागल बस्ती)** — _Sarubhakta_
+- **Prayogshala** — _Sudhir Sharma_
